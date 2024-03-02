@@ -57,12 +57,6 @@ body{
 	font-family: mainFont;
 }
 
-.topo{
-	background-color: grey;
-	text-align: center;
-	color: #A52A2A;
-}
-
 .superscript{
 	font-size: 14px;
 	color: #555555;
@@ -82,14 +76,12 @@ body{
 	background-color: #EEAF28;
 }
 
-button{
+div{
 	font-family: mainFont;
 	font-size: 16px;
 	background-color: none;
 	background: none;
-	border: 2px solid #A52A2A;
 	border-radius: 5px;
-	box-shadow: 3px 4px 0px 0px #A52A2A;
 	margin-bottom: 6px;
 	font-weight:bold;
 }
@@ -127,9 +119,8 @@ button{
 
 .titulo4{
 	border: 2px solid #1564AD;
-	box-shadow: 3px 4px 0px 0px #1564AD;
 	background: #F7DB9F;
-	cursor: pointer;
+	text-align: center;
 }
 
 /* The Modal (background) */
