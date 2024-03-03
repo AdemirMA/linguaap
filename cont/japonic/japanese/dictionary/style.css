@@ -45,6 +45,9 @@ button{
 	text-align: left;
 	padding: 5px;
 	display: inline-block;
+	border-radius: 14px;
+	border: 3px solid #A49169;
+	margin:5px;
 }
 
 .titulo{
