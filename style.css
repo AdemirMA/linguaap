@@ -92,9 +92,9 @@ div{
 }
 
 .titulo{
-	border: 2px solid #1564ad;
-	box-shadow: 3px 4px 0px 0px #1564ad;
+	border: 2px solid #4b3219;
 	cursor: pointer;
+	margin-bottom: 5px;
 }
 
 .titulo-{
