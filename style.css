@@ -78,12 +78,10 @@ body{
 
 div{
 	font-family: mainFont;
-	font-size: 16px;
-	background-color: none;
-	background: none;
 	border-radius: 5px;
 	margin-bottom: 6px;
 	font-weight:bold;
+	padding: 5px;
 }
 
 .titulo-menu{
@@ -118,6 +116,13 @@ div{
 }
 
 .titulo4{
+	border: 2px solid #1564AD;
+	background: #F7DB9F;
+	text-align: center;
+	display: inline-block;
+}
+
+.titulo5{
 	border: 2px solid #1564AD;
 	background: #F7DB9F;
 	text-align: center;
