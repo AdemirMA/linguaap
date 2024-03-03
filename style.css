@@ -120,6 +120,8 @@ div{
 	background: #F7DB9F;
 	text-align: center;
 	display: inline-block;
+	cursor: pointer;
+	margin: 5px;
 }
 
 .titulo5{
