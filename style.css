@@ -73,7 +73,7 @@ body{
 }
 
 .langSearch{
-	background-color: #EEAF28;
+	background-color: #542a0e;
 }
 
 div{
@@ -390,4 +390,8 @@ rb, rt {
 
 a{
 	text-decoration: none;
+}
+
+.maincolor{
+	color:#492201;
 }
